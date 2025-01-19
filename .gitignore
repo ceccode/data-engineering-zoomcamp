@@ -31,19 +31,3 @@ Thumbs.db
 *.jpg
 *.jpeg
 *.pdf
-
-# output
-outputs/
-output*.*
-
-# Python notebooks
-.ipynb_checkpoints/
-
-# 
-.todo
-.notes.md
-
-yellow_tripdata_2021-01.csv
-ny_taxi_postgres_data/
-.ipynb_checkpoints/
-*.csv
