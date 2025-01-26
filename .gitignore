@@ -31,3 +31,9 @@ Thumbs.db
 *.jpg
 *.jpeg
 *.pdf
+
+
+# custom files
+_video_/*
+_video_
+
