@@ -84,5 +84,7 @@ homework-solutions/.terraform.tfstate.lock.info
 homework-solutions/.terraformrc
 homework-solutions/terraform.rc
 
-
-
+pgadmin-data/
+pgadmin-data/*
+pgpassfile
+server.json
