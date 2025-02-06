@@ -1,8 +1,5 @@
 # Module 2 Homework
 
-## Notes
-
-
 ## Quiz Questions
 
 Complete the Quiz shown below. It’s a set of 6 multiple-choice questions to test your understanding of workflow orchestration, Kestra and ETL pipelines for data lakes and warehouses.
