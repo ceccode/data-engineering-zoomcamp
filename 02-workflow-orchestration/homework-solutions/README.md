@@ -61,7 +61,7 @@ FROM `trip_data_all.green_tripdata`
 WHERE filename LIKE 'green_tripdata_2020%';
 ```
 
-The result we obtained is 24,648,499.
+The result we obtained is  1,734,051.
 
 
 5) How many rows are there for the `Yellow` Taxi data for the March 2021 CSV file?
